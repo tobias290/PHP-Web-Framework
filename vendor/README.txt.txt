@@ -1,0 +1,1 @@
+Install composer/vendor here. The autoload file/functionality is needed for the framework to work.
